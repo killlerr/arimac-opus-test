@@ -1,5 +1,5 @@
 <template>
-<p>Add new card</p>
+<p>BaseButton</p>
 </template>
 
 <script>

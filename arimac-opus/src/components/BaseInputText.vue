@@ -1,5 +1,5 @@
 <template>
-<p>Completed card</p>
+<p>BaseInputText</p>
 </template>
 
 <script>
