@@ -1,6 +1,6 @@
 <template>
-<div>
- <h1>Test1</h1>
+<div class="test-one">
+ <h1 class="test-one">Test1</h1>
   <!-- Routes get rendered here -->
     <router-view></router-view>
 </div>
@@ -11,6 +11,16 @@
 
 </script>
 
-<style>
+<style scoped>
+
+.test-one{
+  margin-left: 25%;
+  font-size: 25px;
+  background-color: blue;
+
+
+}
+</style>
+>
 
 </style>
